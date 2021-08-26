@@ -1,0 +1,10 @@
+button {
+  position: fixed;
+  padding: 2rem;
+  top: 5vw;
+  left: 5vw;
+}
+
+img {
+  max-width: 100%;
+}
